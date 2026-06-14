@@ -11,6 +11,7 @@ beautifulsoup4>=4.12
 # Stage 2: autonomous navigation
 browser-use>=0.1
 anthropic>=0.40
+apify-client>=1.7
 # browser-use pulls in playwright automatically.
 # After installing, you MUST also fetch the browser binary:
 #   playwright install chromium
