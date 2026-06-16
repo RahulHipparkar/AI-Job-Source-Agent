@@ -1,6 +1,6 @@
 # AI Job Source Agent
 
-**Video Demonstration Line** : https://drive.google.com/file/d/1DcIFaZDUNWIqJhDbsZ2qy84-QnOSczQk/view?usp=drive_link
+**Video Demonstration Link** : https://drive.google.com/file/d/1DcIFaZDUNWIqJhDbsZ2qy84-QnOSczQk/view?usp=drive_link
 
 Given a LinkedIn jobs listing, this service returns a company's careers page and one open position on that company's own site.
 
